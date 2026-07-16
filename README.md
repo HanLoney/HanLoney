@@ -18,7 +18,7 @@
 
 <br />
 
-[`ABOUT`](#about)　·　[`PROJECTS`](#current-quests)　·　[`STACK`](#tech-arsenal)　·　[`SIGNAL`](#signal)
+`ABOUT`　·　`PROJECTS`　·　`STACK`　·　`PHILOSOPHY`
 
 </div>
 
@@ -69,10 +69,6 @@ HanLoney@neon-city:~$ whoami
 
 **STATUS**　`BUILDING IN PUBLIC`
 
-<br />
-
-[VIEW PROJECT →](https://github.com/HanLoney/OpenDesktopPet)
-
 </td>
 </tr>
 </table>
@@ -110,37 +106,17 @@ HanLoney@neon-city:~$ whoami
 
 ---
 
-<a id="signal"></a>
-
-## `05 / SIGNAL`
+## `05 / END TRANSMISSION`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HanLoney&show_icons=true&hide_border=true&bg_color=00000000&title_color=59E4FF&icon_color=B783FF&text_color=C8D4EE&ring_color=FF68C7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HanLoney&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=8250DF&text_color=24292F" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HanLoney&show_icons=true&hide_border=true&bg_color=00000000&title_color=59E4FF&icon_color=B783FF&text_color=C8D4EE&ring_color=FF68C7" alt="HanLoney GitHub statistics" />
-</picture>
+```console
+HanLoney@neon-city:~$ status
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HanLoney&layout=compact&hide_border=true&bg_color=00000000&title_color=59E4FF&text_color=C8D4EE" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HanLoney&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanLoney&layout=compact&hide_border=true&bg_color=00000000&title_color=59E4FF&text_color=C8D4EE" alt="HanLoney most used languages" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HanLoney/HanLoney/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HanLoney/HanLoney/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/HanLoney/HanLoney/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation" />
-</picture>
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/ENTER_GITHUB-HANLONEY-11152A?style=for-the-badge&logo=github&logoColor=59E4FF)](https://github.com/HanLoney)
-
-<br /><br />
+> SYSTEM ONLINE
+> CREATIVITY ACTIVE
+> NEXT QUEST LOADING...
+```
 
 <sub>`NEURAL LINK STABLE`　//　CODE THE FUTURE · DESIGN THE IMPOSSIBLE</sub>
 
