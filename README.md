@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyber-banner.png" width="100%" alt="HanLoney · Cyber City" />
+<img src="./assets/cyber-banner.jpg" width="100%" alt="HanLoney · Cyber City" />
 
 <br />
 
